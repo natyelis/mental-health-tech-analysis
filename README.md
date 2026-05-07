@@ -14,8 +14,8 @@ quais fatores do ambiente de trabalho estão associados à busca por tratamento
 - Mulheres buscam mais tratamento que homens
 - Benefícios corporativos aumentam a procura por ajuda
 - ~50% dos profissionais já buscaram tratamento de saúde mental
-3. Histórico familiar dobra a probabilidade de busca por tratamento
-4. Empresas com benefícios de saúde mental têm colaboradores mais propensos a se tratar
+- Histórico familiar dobra a probabilidade de busca por tratamento
+- Empresas com benefícios de saúde mental têm colaboradores mais propensos a se tratar
 
 ## Estrutura
 - `data/`: dados utilizados
