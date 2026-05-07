@@ -20,3 +20,7 @@ quais fatores do ambiente de trabalho estão associados à busca por tratamento
 ## Estrutura
 - `data/`: dados utilizados
 - `notebooks/`: análise exploratória
+
+## Dashboard
+
+[[Acesse o Dashboard no Looker Studio](https://datastudio.google.com/reporting/ef357976-9d10-4e6c-9c08-78747000a822/page/X4QxF/edit)]
